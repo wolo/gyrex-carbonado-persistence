@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<component name="net.ageto.gyrex.persistence.carbonado_1.1.0.201303201324" version="1.2">
+    <plugin id="net.ageto.gyrex.persistence.carbonado_1.1.0.201303201324"/>
+    <package name="net.ageto.gyrex.persistence.carbonado.storage" visibility="1">
+        <type name="CarbonadoRepository" restrictions="0">
+            <method name="createRepository" restrictions="8" signature="()Lcom/amazon/carbonado/Repository;"/>
+            <method name="getOrCreateRepository" restrictions="24" signature="()Lcom/amazon/carbonado/Repository;"/>
+        </type>
+    </package>
+</component>
